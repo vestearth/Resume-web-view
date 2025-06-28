@@ -4,6 +4,23 @@ A modern, responsive web-based resume/CV template that showcases your profession
 
 ![Resume Preview](https://github.com/user-attachments/assets/c4e47e85-a1b3-45b2-9a5e-809f2d4e97d8)
 
+## 🌐 Live Demo
+
+You can view the resume in action by following these steps:
+
+1. **Quick Preview**: Download and open `index.html` directly in your browser
+2. **Local Server Demo**: 
+   ```bash
+   # Clone the repository
+   git clone https://github.com/vestearth/Resume-web-view.git
+   cd Resume-web-view
+   
+   # Start a local server
+   python -m http.server 8000
+   # Then visit: http://localhost:8000
+   ```
+3. **GitHub Pages**: You can also fork this repository and enable GitHub Pages to get a live URL
+
 ## ✨ Features
 
 - **Modern Design**: Clean, professional layout with a sophisticated dark theme
@@ -225,17 +242,35 @@ This project is open source and available under the [MIT License](LICENSE).
 - **Framework**: [Bootstrap](https://getbootstrap.com/)
 - **Animation**: [jQuery](https://jquery.com/)
 
-## 📞 Contact
+## 📞 Contact & Personal Information
 
 **Project Owner**: Sichol Korjitmate  
+**Professional Title**: Frontend Developer  
 **Email**: sichol.kor@gmail.com  
+**Phone**: +66 80 515 1547  
 **Location**: Chiang Mai, Thailand  
 
-**Social Media**:
-- [LinkedIn](https://www.linkedin.com/in/sichol-korjitmate-9bb04618b/)
-- [Facebook](https://www.facebook.com/vestearth/)
-- [Instagram](https://www.instagram.com/earth_sk/)
-- [Pinterest](https://www.pinterest.com/earth56/)
+**Professional Profile**:
+- Dedicated Frontend Developer with expertise in HTML, CSS, and JavaScript
+- Experienced in both independent and collaborative work environments  
+- Passionate about creating modern, responsive web applications
+- Strong background in UI/UX design and user experience optimization
+
+**Technical Specialties**:
+- Frontend Technologies: HTML5, CSS3/SCSS, JavaScript (ES6+), jQuery
+- Responsive Design: Bootstrap, Flexbox, CSS Grid
+- Version Control: Git, GitHub, Bitbucket
+- Design Tools: Figma, Adobe XD
+- Development Environment: Visual Studio Code, Sublime Text
+
+**Connect with me**:
+- 💼 [LinkedIn](https://www.linkedin.com/in/sichol-korjitmate-9bb04618b/) - Professional networking
+- 📘 [Facebook](https://www.facebook.com/vestearth/) - Personal updates and projects  
+- 📸 [Instagram](https://www.instagram.com/earth_sk/) - Creative content and lifestyle
+- 📌 [Pinterest](https://www.pinterest.com/earth56/) - Design inspiration and ideas
+- 🐙 [GitHub](https://github.com/vestearth) - Open source projects and code repositories
+
+**Languages**: Thai (Native), English (Professional Working Proficiency)
 
 ---
 
