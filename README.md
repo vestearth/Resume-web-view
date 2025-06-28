@@ -401,10 +401,10 @@ Resume-web-view/
 
 **English**:
 **Project Owner**: Sichol Korjitmate  
-**Professional Title**: Frontend Developer  
+**Professional Title**: Fullstack Developer  
 **Email**: sichol.kor@gmail.com  
 **Phone**: +66 80 515 1547  
-**Location**: Chiang Mai, Thailand  
+**Location**: Bangkok, Thailand  
 
 **Professional Profile**:
 - Dedicated Frontend Developer with expertise in HTML, CSS, and JavaScript
@@ -431,11 +431,11 @@ Resume-web-view/
 ---
 
 **ไทย**:
-**เจ้าของโปรเจค**: สิชล กอจิตมาตร  
-**ตำแหน่งทางวิชาชีพ**: นักพัฒนาฟรอนท์เอนด์  
+**เจ้าของโปรเจค**: สิชล ขอจิตต์เมตต์  
+**ตำแหน่งทางวิชาชีพ**: Fullstack Developer  
 **อีเมล**: sichol.kor@gmail.com  
 **โทรศัพท์**: +66 80 515 1547  
-**ที่อยู่**: เชียงใหม่, ประเทศไทย  
+**ที่อยู่**: กรุงเทพ, ประเทศไทย  
 
 **โปรไฟล์วิชาชีพ**:
 - นักพัฒนาฟรอนท์เอนด์ที่มุ่งมั่นด้วยความเชี่ยวชาญใน HTML, CSS และ JavaScript
